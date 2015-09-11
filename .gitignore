@@ -1,0 +1,4 @@
+# Files to be ignored by git
+
+Neonympha-Bayes.xlsx
+.Rapp.history
