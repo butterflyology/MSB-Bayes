@@ -7,8 +7,8 @@ library("mcmcplots")
 set.seed(862476501)
 setwd("~/Desktop/Projects/MSB-Bayes")
 
-# save(list = ls(), file = "MSB-Bayes.RData")
-# load("MSB-Bayes.RData")
+# save(list = ls(), file = "Data/MSB-Bayes.RData")
+# load("Data/MSB-Bayes.RData")
 (sessID <- sessionInfo())
 
 
